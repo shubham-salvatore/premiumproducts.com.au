@@ -2,7 +2,7 @@
 		<nav aria-label="breadcrumb" class="breadcrumb_bg">
 		<div class="container">
 		<ol class="breadcrumb">
-		<li class="breadcrumb-item"><a href="index.php">Home</a></li><li class="breadcrumb-item"><a href="category.php">Categories</a></li><li class="breadcrumb-item active">Air Handling Units</li>
+		<li class="breadcrumb-item"><a href="/index">Home</a></li><li class="breadcrumb-item"><a href="/category">Categories</a></li><li class="breadcrumb-item active">Air Handling Units</li>
 		</ol>
 		</div>
 		</nav><script type="text/javascript">function serialize_form() { return $('#myform').serialize();   } </script>
@@ -80,11 +80,11 @@
         <div class="flter_bx">
 	       <div class="filt_hed">Categories</div>
 <div id="categories_list" class="list_area">
- 		   <p class="left_attribute"><a href="air-handling-units.php">Air Handling Units</a></p> 
-		   		   <p class="left_attribute"><a href="coils.php">Coils</a></p> 
-		   		   <p class="left_attribute"><a href="dx-coil.php">DX Coil</a></p> 
-		   		   <p class="left_attribute"><a href="heat-recovery-units-with-vrf-condenser.php">Heat Recovery units with VRF Condenser</a></p> 
-		   		   <p class="left_attribute"><a href="ec-fans.php">EC Fans</a></p> 
+ 		   <p class="left_attribute"><a href="/air-handling-units">Air Handling Units</a></p> 
+		   		   <p class="left_attribute"><a href="/coils">Coils</a></p> 
+		   		   <p class="left_attribute"><a href="/dx-coil">DX Coil</a></p> 
+		   		   <p class="left_attribute"><a href="/heat-recovery-units-with-vrf-condenser">Heat Recovery units with VRF Condenser</a></p> 
+		   		   <p class="left_attribute"><a href="/ec-fans">EC Fans</a></p> 
 		   </div>	      </div>
 	     </div>
 	    </div>
@@ -100,11 +100,11 @@
 		      		<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="custom-air-handling-units.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="custom-air-handling-units.php"><img src="uploaded_files/thumb_cache/thumb_285_265_image004.png" alt="Custom air handling units" title="Custom air handling units" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/custom-air-handling-units" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/custom-air-handling-units"><img src="uploaded_files/thumb_cache/thumb_285_265_image004.png" alt="Custom air handling units" title="Custom air handling units" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="custom-air-handling-units.php" title="Custom air handling units">Custom air handling units</a></p>
+		   <p class="fet_hed"><a href="/custom-air-handling-units" title="Custom air handling units">Custom air handling units</a></p>
 		   <p class="fet_txt">Premium Products believes a one-size-fits-all strategy is unlikely to provide the best out...</p>
 		   <p class="cor"><img src="assets/designer/themes/default/images/cor.jpg" alt=""></p>
 		  </div>
@@ -114,11 +114,11 @@
 				<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="air-handling-units-with-vrf-condenser.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="air-handling-units-with-vrf-condenser.php"><img src="uploaded_files/thumb_cache/thumb_285_265_untitled.png" alt="Air Handling Units with VRF Condenser" title="Air Handling Units with VRF Condenser" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/air-handling-units-with-vrf-condenser" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/air-handling-units-with-vrf-condenser"><img src="uploaded_files/thumb_cache/thumb_285_265_untitled.png" alt="Air Handling Units with VRF Condenser" title="Air Handling Units with VRF Condenser" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="air-handling-units-with-vrf-condenser.php" title="Air Handling Units with VRF Condenser">Air Handling Units with VRF Condenser</a></p>
+		   <p class="fet_hed"><a href="/air-handling-units-with-vrf-condenser" title="Air Handling Units with VRF Condenser">Air Handling Units with VRF Condenser</a></p>
 		   <p class="fet_txt">Premium Products is a trusted unit of Air handling with supplier of VRF condenser and a re...</p>
 		   <p class="cor"><img src="assets/designer/themes/default/images/cor.jpg" alt=""></p>
 		  </div>
@@ -128,11 +128,11 @@
 				<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="rooftop-air-handling-units.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="rooftop-air-handling-units.php"><img src="uploaded_files/thumb_cache/thumb_285_265_17-air-handling-unit-m-1.jpg" alt="Rooftop Air handling units" title="Rooftop Air handling units" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/rooftop-air-handling-units" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/rooftop-air-handling-units"><img src="uploaded_files/thumb_cache/thumb_285_265_17-air-handling-unit-m-1.jpg" alt="Rooftop Air handling units" title="Rooftop Air handling units" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="rooftop-air-handling-units.php" title="Rooftop Air handling units">Rooftop Air handling units</a></p>
+		   <p class="fet_hed"><a href="/rooftop-air-handling-units" title="Rooftop Air handling units">Rooftop Air handling units</a></p>
 		   <p class="fet_txt">Premium Products &ndash; Superior Rooftop Air Handling Units in Australia
 
 Energy-Effici...</p>
@@ -144,11 +144,11 @@ Energy-Effici...</p>
 				<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="floor-mounted-air-handling-units.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="floor-mounted-air-handling-units.php"><img src="uploaded_files/thumb_cache/thumb_285_265_floor-mounted-ahu11.png" alt="Floor mounted air handling units" title="Floor mounted air handling units" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/floor-mounted-air-handling-units" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/floor-mounted-air-handling-units"><img src="uploaded_files/thumb_cache/thumb_285_265_floor-mounted-ahu11.png" alt="Floor mounted air handling units" title="Floor mounted air handling units" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="floor-mounted-air-handling-units.php" title="Floor mounted air handling units">Floor mounted air handling units</a></p>
+		   <p class="fet_hed"><a href="/floor-mounted-air-handling-units" title="Floor mounted air handling units">Floor mounted air handling units</a></p>
 		   <p class="fet_txt">What are Floor Mounted Air Handling Units?
 
 Floor mounted air handling units, or AHUs, a...</p>
@@ -160,11 +160,11 @@ Floor mounted air handling units, or AHUs, a...</p>
 				<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="vertical-air-handling-units.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="vertical-air-handling-units.php"><img src="uploaded_files/thumb_cache/thumb_285_265_vertical-ahu-2-800x1200-2.png" alt="Vertical air handling units" title="Vertical air handling units" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/vertical-air-handling-units" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/vertical-air-handling-units"><img src="uploaded_files/thumb_cache/thumb_285_265_vertical-ahu-2-800x1200-2.png" alt="Vertical air handling units" title="Vertical air handling units" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="vertical-air-handling-units.php" title="Vertical air handling units">Vertical air handling units</a></p>
+		   <p class="fet_hed"><a href="/vertical-air-handling-units" title="Vertical air handling units">Vertical air handling units</a></p>
 		   <p class="fet_txt">Premium Air Handling Solutions for Industrial &amp; Commercial Use
 
 Premium Products is ...</p>
@@ -176,11 +176,11 @@ Premium Products is ...</p>
 				<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="ceiling-suspended-fan-coil-units.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="ceiling-suspended-fan-coil-units.php"><img src="uploaded_files/thumb_cache/thumb_285_265_331.png" alt="Ceiling suspended fan coil units" title="Ceiling suspended fan coil units" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/ceiling-suspended-fan-coil-units" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/ceiling-suspended-fan-coil-units"><img src="uploaded_files/thumb_cache/thumb_285_265_331.png" alt="Ceiling suspended fan coil units" title="Ceiling suspended fan coil units" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="ceiling-suspended-fan-coil-units.php" title="Ceiling suspended fan coil units">Ceiling suspended fan coil units</a></p>
+		   <p class="fet_hed"><a href="/ceiling-suspended-fan-coil-units" title="Ceiling suspended fan coil units">Ceiling suspended fan coil units</a></p>
 		   <p class="fet_txt">The HVAC Solutions of Diverse Environments with High-Performance
 
 Premium Products, as a...</p>

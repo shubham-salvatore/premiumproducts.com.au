@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -59,7 +59,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <div class="container">
     <div class="row">
      <div class="col-5 col-sm-7 col-md-8 col-lg-2">
-      <p class="logo_area"><a href="index.php" title="Premium Products"><img src="assets/designer/themes/default/images/logo.png" alt="" class="img-fluid"></a></p>
+      <p class="logo_area"><a href="/index" title="Premium Products"><img src="assets/designer/themes/default/images/logo.png" alt="" class="img-fluid"></a></p>
      </div>
      <!-- logo end section -->
      <div class="col-7 col-sm-5 col-md-4 col-lg-10">
@@ -77,7 +77,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <span><i class="fas fa-envelope"></i></span> 
           <span><b>Email ID</b><a href="mailto:info@premiumproducts.com.au">info@premiumproducts.com.au</a></span>
          </p>
-         <p class="cal_req"><a href="contact-us.php" title="Call Back Request">Call Back Request</a></p>
+         <p class="cal_req"><a href="/contact-us" title="Call Back Request">Call Back Request</a></p>
          <p class="social-top"> 
                     <a href="https://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a> 
           <a href="https://twitter.com/?lang=en" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a> 
@@ -100,32 +100,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-closed=".call_dis2"> <span class="icon-bar"></span><span class="icon-bar"></span> <span class="icon-bar"></span></button>
            <div class="nav-collapse collapse">
             <ul class="nav">
-             <li><a href="index.php" class="act1" title="Home">Home</a></li>
+             <li><a href="/index" class="act1" title="Home">Home</a></li>
              <li class="nav-item"> 
               <a href="#" data-toggle="dropdown" data-hover="dropdown" data-delay="1000" title="About Us " class="dropdown-toggle">About Us  <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
-               <li><a href="about-us.php" title="About Us">About Us</a></li>
-               <li><a href="our-mission.php" title="Our Mission">Our Mission</a></li>
-               <li><a href="our-vision.php" title="Our Vision">Our Vision</a></li>
+               <li><a href="/about-us" title="About Us">About Us</a></li>
+               <li><a href="/our-mission" title="Our Mission">Our Mission</a></li>
+               <li><a href="/our-vision" title="Our Vision">Our Vision</a></li>
               </ul>
              </li>
              	             <li class="nav-item"> 
 	              <a href="#"  data-toggle="dropdown" data-hover="dropdown" data-delay="1000" title="Products " class="dropdown-toggle">Products  <span class="fa fa-angle-down"></span></a>
 	              <ul class="dropdown-menu" role="menu">
-	               		               <li><a href="air-handling-units.php" title="Air Handling Units">Air Handling Units</a></li>
-		               		               <li><a href="coils.php" title="Coils">Coils</a></li>
-		               		               <li><a href="dx-coil.php" title="DX Coil">DX Coil</a></li>
-		               		               <li><a href="heat-recovery-units-with-vrf-condenser.php" title="Heat Recovery units with VRF Condenser">Heat Recovery units with VRF Condenser</a></li>
+	               		               <li><a href="/air-handling-units" title="Air Handling Units">Air Handling Units</a></li>
+		               		               <li><a href="/coils" title="Coils">Coils</a></li>
+		               		               <li><a href="/dx-coil" title="DX Coil">DX Coil</a></li>
+		               		               <li><a href="/heat-recovery-units-with-vrf-condenser" title="Heat Recovery units with VRF Condenser">Heat Recovery units with VRF Condenser</a></li>
 		               	              </ul>
 	             </li>
 	                          <li class="nav-item"> 
               <a href="#" data-toggle="dropdown" data-hover="dropdown" data-delay="1000" title="Gallery " class="dropdown-toggle">Gallery  <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
-               <li><a href="gallery.php" title="Image Gallery">Image Gallery</a></li>
-               <li><a href="videos.php" title="Video Gallery">Video Gallery</a></li>
+               <li><a href="/gallery" title="Image Gallery">Image Gallery</a></li>
+               <li><a href="/videos" title="Video Gallery">Video Gallery</a></li>
               </ul>
              </li>
-          <li><a href="contact-us.php" title="Contact Us">Contact Us</a></li>
+          <li><a href="/contact-us" title="Contact Us">Contact Us</a></li>
             </ul>
            </div>
           </div>

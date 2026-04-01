@@ -2,7 +2,7 @@
 		<nav aria-label="breadcrumb" class="breadcrumb_bg">
 		<div class="container">
 		<ol class="breadcrumb">
-		<li class="breadcrumb-item"><a href="index.php">Home</a></li><li class="breadcrumb-item"><a href="category.php">Categories</a></li><li class="breadcrumb-item active">EC Fans</li>
+		<li class="breadcrumb-item"><a href="/index">Home</a></li><li class="breadcrumb-item"><a href="/category">Categories</a></li><li class="breadcrumb-item active">EC Fans</li>
 		</ol>
 		</div>
 		</nav><script type="text/javascript">function serialize_form() { return $('#myform').serialize();   } </script>
@@ -24,11 +24,11 @@
         <div class="flter_bx">
 	       <div class="filt_hed">Categories</div>
 <div id="categories_list" class="list_area">
- 		   <p class="left_attribute"><a href="air-handling-units.php">Air Handling Units</a></p> 
-		   		   <p class="left_attribute"><a href="coils.php">Coils</a></p> 
-		   		   <p class="left_attribute"><a href="dx-coil.php">DX Coil</a></p> 
-		   		   <p class="left_attribute"><a href="heat-recovery-units-with-vrf-condenser.php">Heat Recovery units with VRF Condenser</a></p> 
-		   		   <p class="left_attribute"><a href="ec-fans.php">EC Fans</a></p> 
+ 		   <p class="left_attribute"><a href="/air-handling-units">Air Handling Units</a></p> 
+		   		   <p class="left_attribute"><a href="/coils">Coils</a></p> 
+		   		   <p class="left_attribute"><a href="/dx-coil">DX Coil</a></p> 
+		   		   <p class="left_attribute"><a href="/heat-recovery-units-with-vrf-condenser">Heat Recovery units with VRF Condenser</a></p> 
+		   		   <p class="left_attribute"><a href="/ec-fans">EC Fans</a></p> 
 		   </div>	      </div>
 	     </div>
 	    </div>
@@ -44,11 +44,11 @@
 		      		<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="355-1-8kw-3ph.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="355-1-8kw-3ph.php"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2025-04-03-at-2-28-24-pm3.jpeg" alt="355-1.8kW-3ph" title="355-1.8kW-3ph" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/355-1-8kw-3ph" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/355-1-8kw-3ph"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2025-04-03-at-2-28-24-pm3.jpeg" alt="355-1.8kW-3ph" title="355-1.8kW-3ph" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="355-1-8kw-3ph.php" title="355-1.8kW-3ph">355-1.8kW-3ph</a></p>
+		   <p class="fet_hed"><a href="/355-1-8kw-3ph" title="355-1.8kW-3ph">355-1.8kW-3ph</a></p>
 		   <p class="fet_txt">Three Phase EC Plug fan with &Phi;355 and 1.8 kW motor
 
 Download datasheet
@@ -61,11 +61,11 @@ Download datasheet
 				<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="355-650w-1ph.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="355-650w-1ph.php"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2025-04-03-at-2-28-24-pm2.jpeg" alt="355-650W-1ph" title="355-650W-1ph" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/355-650w-1ph" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/355-650w-1ph"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2025-04-03-at-2-28-24-pm2.jpeg" alt="355-650W-1ph" title="355-650W-1ph" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="355-650w-1ph.php" title="355-650W-1ph">355-650W-1ph</a></p>
+		   <p class="fet_hed"><a href="/355-650w-1ph" title="355-650W-1ph">355-650W-1ph</a></p>
 		   <p class="fet_txt">Single Phase EC Plug fan with&nbsp;&Phi;355 and 0.65&nbsp;kW motor
 
 Download datasheet
@@ -78,11 +78,11 @@ Download datasheet
 				<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="450-1-8kw-3ph.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="450-1-8kw-3ph.php"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2025-04-03-at-2-28-24-pm1.jpeg" alt="450-1.8kW-3ph" title="450-1.8kW-3ph" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/450-1-8kw-3ph" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/450-1-8kw-3ph"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2025-04-03-at-2-28-24-pm1.jpeg" alt="450-1.8kW-3ph" title="450-1.8kW-3ph" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="450-1-8kw-3ph.php" title="450-1.8kW-3ph">450-1.8kW-3ph</a></p>
+		   <p class="fet_hed"><a href="/450-1-8kw-3ph" title="450-1.8kW-3ph">450-1.8kW-3ph</a></p>
 		   <p class="fet_txt">Three Phase EC Plug fan with &Phi;450&nbsp;and 1.8 kW motor
 
 Download datasheet
@@ -95,11 +95,11 @@ Download datasheet
 				<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="560-3-6kw-3ph.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="560-3-6kw-3ph.php"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2025-04-03-at-2-28-24-pm.jpeg" alt="560-3.6kW-3ph" title="560-3.6kW-3ph" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/560-3-6kw-3ph" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/560-3-6kw-3ph"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2025-04-03-at-2-28-24-pm.jpeg" alt="560-3.6kW-3ph" title="560-3.6kW-3ph" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="560-3-6kw-3ph.php" title="560-3.6kW-3ph">560-3.6kW-3ph</a></p>
+		   <p class="fet_hed"><a href="/560-3-6kw-3ph" title="560-3.6kW-3ph">560-3.6kW-3ph</a></p>
 		   <p class="fet_txt">Three Phase EC Plug fan with &Phi;560&nbsp;and 3.6&nbsp;kW motor
 
 Download datasheet&nbs...</p>

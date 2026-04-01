@@ -5,7 +5,7 @@
 		<nav aria-label="breadcrumb" class="breadcrumb_bg">
 		<div class="container">
 		<ol class="breadcrumb">
-		<li class="breadcrumb-item"><a href="index.php">Home</a></li><li class="breadcrumb-item"><a href="category.php">Categories</a></li><li class="breadcrumb-item"><a href="air-handling-units.php">Air Handling Units</a></li><li class="breadcrumb-item active">Rooftop Air handling units</li>
+		<li class="breadcrumb-item"><a href="/index">Home</a></li><li class="breadcrumb-item"><a href="/category">Categories</a></li><li class="breadcrumb-item"><a href="/air-handling-units">Air Handling Units</a></li><li class="breadcrumb-item active">Rooftop Air handling units</li>
 		</ol>
 		</div>
 		</nav><div class="container">

@@ -2,7 +2,7 @@
 		<nav aria-label="breadcrumb" class="breadcrumb_bg">
 		<div class="container">
 		<ol class="breadcrumb">
-		<li class="breadcrumb-item"><a href="index.php">Home</a></li><li class="breadcrumb-item"><a href="category.php">Categories</a></li><li class="breadcrumb-item"><a href="dx-coil.php">DX Coil</a></li><li class="breadcrumb-item active">DX Coil  with VRF Condenser</li>
+		<li class="breadcrumb-item"><a href="/index">Home</a></li><li class="breadcrumb-item"><a href="/category">Categories</a></li><li class="breadcrumb-item"><a href="/dx-coil">DX Coil</a></li><li class="breadcrumb-item active">DX Coil  with VRF Condenser</li>
 		</ol>
 		</div>
 		</nav><div class="container">

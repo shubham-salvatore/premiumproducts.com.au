@@ -2,7 +2,7 @@
 		<nav aria-label="breadcrumb" class="breadcrumb_bg">
 		<div class="container">
 		<ol class="breadcrumb">
-		<li class="breadcrumb-item"><a href="index.php">Home</a></li><li class="breadcrumb-item"><a href="category.php">Categories</a></li><li class="breadcrumb-item"><a href="coils.php">Coils</a></li><li class="breadcrumb-item active">CO2 Coils</li>
+		<li class="breadcrumb-item"><a href="/index">Home</a></li><li class="breadcrumb-item"><a href="/category">Categories</a></li><li class="breadcrumb-item"><a href="/coils">Coils</a></li><li class="breadcrumb-item active">CO2 Coils</li>
 		</ol>
 		</div>
 		</nav><div class="container">

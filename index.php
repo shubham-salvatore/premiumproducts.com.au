@@ -9,7 +9,7 @@
 	   		   <div data-src="uploaded_files/thumb_cache/thumb_1920_585_slide1.jpg">
 		    			    <div class="fluid_dg_caption moveFromLeft">
 			     <div>
-			      				      <div class="bnr-txt4"><a href="coils.php" title="View More">View More <i class="fa-solid fa-arrow-right"></i></a></div>
+			      				      <div class="bnr-txt4"><a href="/coils" title="View More">View More <i class="fa-solid fa-arrow-right"></i></a></div>
 				      			     </div>
 			    </div>  
 			    		   </div>
@@ -23,18 +23,18 @@
 	<div class="hot_prd_bg">
 	 <div class="container">
 	  <h2>Hot Products</h2>
-	  <p class="vew-but"><a href="hot-products.php" title="View More">View More <i class="fa-solid fa-arrow-right"></i></a></p>
+	  <p class="vew-but"><a href="/hot-products" title="View More">View More <i class="fa-solid fa-arrow-right"></i></a></p>
 	  <div class="clearfix"></div>
 	  <div class="w-100 mt-2">
 	   <div id="scr1" class="owl-carousel owl-theme">
 	    		<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="co2-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="co2-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_image003.png" alt="direct expansion coil N" title="direct expansion coil N" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/co2-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/co2-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_image003.png" alt="direct expansion coil N" title="direct expansion coil N" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="co2-coils.php" title="CO2 Coils">CO2 Coils</a></p>
+		   <p class="fet_hed"><a href="/co2-coils" title="CO2 Coils">CO2 Coils</a></p>
 		   <p class="fet_txt">Premium Products is a trusted CO2 coil supplier delivering superior products for refrigera...</p>
 		   <p class="cor"><img src="assets/designer/themes/default/images/cor.jpg" alt=""></p>
 		  </div>
@@ -44,11 +44,11 @@
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="evaporator-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="evaporator-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_dx-coil-1024x778.png" alt="Evaporator Coils" title="Evaporator Coils" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/evaporator-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/evaporator-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_dx-coil-1024x778.png" alt="Evaporator Coils" title="Evaporator Coils" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="evaporator-coils.php" title="Evaporator Coils">Evaporator Coils</a></p>
+		   <p class="fet_hed"><a href="/evaporator-coils" title="Evaporator Coils">Evaporator Coils</a></p>
 		   <p class="fet_txt">Premium Products: Leading Refrigeration Evaporator Coil Manufacturer
 
 Premium Products i...</p>
@@ -60,11 +60,11 @@ Premium Products i...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="condenser-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="condenser-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_097402601_angle.jpg" alt="Condenser Coils" title="Condenser Coils" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/condenser-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/condenser-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_097402601_angle.jpg" alt="Condenser Coils" title="Condenser Coils" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="condenser-coils.php" title="Air Conditioner Condenser Coils">Air Conditioner Condenser Coils</a></p>
+		   <p class="fet_hed"><a href="/condenser-coils" title="Air Conditioner Condenser Coils">Air Conditioner Condenser Coils</a></p>
 		   <p class="fet_txt">Premium Products, in its capacity as a high-performance Air conditioner condenser coil man...</p>
 		   <p class="cor"><img src="assets/designer/themes/default/images/cor.jpg" alt=""></p>
 		  </div>
@@ -74,11 +74,11 @@ Premium Products i...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="hot-water-and-chilled-water-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="hot-water-and-chilled-water-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_hot-water-coil.png" alt="Hot Water Coils" title="Hot Water Coils" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/hot-water-and-chilled-water-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/hot-water-and-chilled-water-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_hot-water-coil.png" alt="Hot Water Coils" title="Hot Water Coils" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="hot-water-and-chilled-water-coils.php" title="Hot Water and Chilled Water Coils">Hot Water and Chilled Water Coils</a></p>
+		   <p class="fet_hed"><a href="/hot-water-and-chilled-water-coils" title="Hot Water and Chilled Water Coils">Hot Water and Chilled Water Coils</a></p>
 		   <p class="fet_txt">Premium Products: Trusted Hot Water and Chilled Water Coils Supplier
 
 Premium Products i...</p>
@@ -90,11 +90,11 @@ Premium Products i...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="steam-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="steam-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_steam.jpg" alt="Steam Coils" title="Steam Coils" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/steam-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/steam-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_steam.jpg" alt="Steam Coils" title="Steam Coils" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="steam-coils.php" title="Steam Coils">Steam Coils</a></p>
+		   <p class="fet_hed"><a href="/steam-coils" title="Steam Coils">Steam Coils</a></p>
 		   <p class="fet_txt">Steam Coils in Australia &ndash; Premium Products, the Market Leader
 
 Best Heating Syste...</p>
@@ -106,11 +106,11 @@ Best Heating Syste...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="air-handling-units-with-vrf-condenser.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="air-handling-units-with-vrf-condenser.php"><img src="uploaded_files/thumb_cache/thumb_285_265_untitled.png" alt="Air Handling Units with VRF Condenser" title="Air Handling Units with VRF Condenser" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/air-handling-units-with-vrf-condenser" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/air-handling-units-with-vrf-condenser"><img src="uploaded_files/thumb_cache/thumb_285_265_untitled.png" alt="Air Handling Units with VRF Condenser" title="Air Handling Units with VRF Condenser" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="air-handling-units-with-vrf-condenser.php" title="Air Handling Units with VRF Condenser">Air Handling Units with VRF Condenser</a></p>
+		   <p class="fet_hed"><a href="/air-handling-units-with-vrf-condenser" title="Air Handling Units with VRF Condenser">Air Handling Units with VRF Condenser</a></p>
 		   <p class="fet_txt">Premium Products is a trusted unit of Air handling with supplier of VRF condenser and a re...</p>
 		   <p class="cor"><img src="assets/designer/themes/default/images/cor.jpg" alt=""></p>
 		  </div>
@@ -120,11 +120,11 @@ Best Heating Syste...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="micro-channel-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="micro-channel-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2024-10-17-at-12.01.27-pm.jpeg" alt="Micro channel coils" title="Micro channel coils" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/micro-channel-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/micro-channel-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2024-10-17-at-12.01.27-pm.jpeg" alt="Micro channel coils" title="Micro channel coils" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="micro-channel-coils.php" title="Micro channel coils">Micro channel coils</a></p>
+		   <p class="fet_hed"><a href="/micro-channel-coils" title="Micro channel coils">Micro channel coils</a></p>
 		   <p class="fet_txt">Premium Products: Leading Microchannel Coil Suppliers
 
 Premium Products is one of the le...</p>
@@ -136,11 +136,11 @@ Premium Products is one of the le...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="rooftop-air-handling-units.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="rooftop-air-handling-units.php"><img src="uploaded_files/thumb_cache/thumb_285_265_17-air-handling-unit-m-1.jpg" alt="Rooftop Air handling units" title="Rooftop Air handling units" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/rooftop-air-handling-units" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/rooftop-air-handling-units"><img src="uploaded_files/thumb_cache/thumb_285_265_17-air-handling-unit-m-1.jpg" alt="Rooftop Air handling units" title="Rooftop Air handling units" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="rooftop-air-handling-units.php" title="Rooftop Air handling units">Rooftop Air handling units</a></p>
+		   <p class="fet_hed"><a href="/rooftop-air-handling-units" title="Rooftop Air handling units">Rooftop Air handling units</a></p>
 		   <p class="fet_txt">Premium Products &ndash; Superior Rooftop Air Handling Units in Australia
 
 Energy-Effici...</p>
@@ -152,11 +152,11 @@ Energy-Effici...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="floor-mounted-air-handling-units.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="floor-mounted-air-handling-units.php"><img src="uploaded_files/thumb_cache/thumb_285_265_floor-mounted-ahu11.png" alt="Floor mounted air handling units" title="Floor mounted air handling units" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/floor-mounted-air-handling-units" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/floor-mounted-air-handling-units"><img src="uploaded_files/thumb_cache/thumb_285_265_floor-mounted-ahu11.png" alt="Floor mounted air handling units" title="Floor mounted air handling units" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="floor-mounted-air-handling-units.php" title="Floor mounted air handling units">Floor mounted air handling units</a></p>
+		   <p class="fet_hed"><a href="/floor-mounted-air-handling-units" title="Floor mounted air handling units">Floor mounted air handling units</a></p>
 		   <p class="fet_txt">What are Floor Mounted Air Handling Units?
 
 Floor mounted air handling units, or AHUs, a...</p>
@@ -188,7 +188,7 @@ Floor mounted air handling units, or AHUs, a...</p>
 <h3><br />
 <a href="uploaded_files/userfiles/files/Premium Products- Introduction Letter-Coils-AHUs-ERVs-R1.pdf"><span style="color:#264387;"><strong><span apple="" color="" font-size:="" segoe="" ui="">Download company profile</span></strong></span></a></h3>
 </div>
-     <p class="red_but"><a href="about-us.php" title="Read More">Read More <i class="fa-solid fa-arrow-right"></i></a></p>
+     <p class="red_but"><a href="/about-us" title="Read More">Read More <i class="fa-solid fa-arrow-right"></i></a></p>
     </div>
    </div>
    <!-- end section -->
@@ -208,7 +208,7 @@ Floor mounted air handling units, or AHUs, a...</p>
    <!-- left section end -->
    
    <div class="col-lg-3">
-    <p class="req_but"><a href="contact-us.php" title="Call Back Request">Call Back Request <i class="fa-solid fa-arrow-right"></i></a></p>
+    <p class="req_but"><a href="/contact-us" title="Call Back Request">Call Back Request <i class="fa-solid fa-arrow-right"></i></a></p>
    </div>
    <!-- right section end -->
   </div>
@@ -222,18 +222,18 @@ Floor mounted air handling units, or AHUs, a...</p>
 	<div class="hot_prd_bg">
 	 <div class="container">
 	  <h2>Featured Products</h2>
-	  <p class="vew-but"><a href="featured-products.php" title="View More">View More <i class="fa-solid fa-arrow-right"></i></a></p>
+	  <p class="vew-but"><a href="/featured-products" title="View More">View More <i class="fa-solid fa-arrow-right"></i></a></p>
 	  <div class="clearfix"></div>
 	  <div class="w-100 mt-2">
 	   <div id="scr2" class="owl-carousel owl-theme">
 	    		<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="co2-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="co2-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_image003.png" alt="direct expansion coil N" title="direct expansion coil N" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/co2-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/co2-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_image003.png" alt="direct expansion coil N" title="direct expansion coil N" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="co2-coils.php" title="CO2 Coils">CO2 Coils</a></p>
+		   <p class="fet_hed"><a href="/co2-coils" title="CO2 Coils">CO2 Coils</a></p>
 		   <p class="fet_txt">Premium Products is a trusted CO2 coil supplier delivering superior products for refrigera...</p>
 		   <p class="cor"><img src="assets/designer/themes/default/images/cor.jpg" alt=""></p>
 		  </div>
@@ -243,11 +243,11 @@ Floor mounted air handling units, or AHUs, a...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="evaporator-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="evaporator-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_dx-coil-1024x778.png" alt="Evaporator Coils" title="Evaporator Coils" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/evaporator-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/evaporator-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_dx-coil-1024x778.png" alt="Evaporator Coils" title="Evaporator Coils" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="evaporator-coils.php" title="Evaporator Coils">Evaporator Coils</a></p>
+		   <p class="fet_hed"><a href="/evaporator-coils" title="Evaporator Coils">Evaporator Coils</a></p>
 		   <p class="fet_txt">Premium Products: Leading Refrigeration Evaporator Coil Manufacturer
 
 Premium Products i...</p>
@@ -259,11 +259,11 @@ Premium Products i...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="condenser-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="condenser-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_097402601_angle.jpg" alt="Condenser Coils" title="Condenser Coils" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/condenser-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/condenser-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_097402601_angle.jpg" alt="Condenser Coils" title="Condenser Coils" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="condenser-coils.php" title="Air Conditioner Condenser Coils">Air Conditioner Condenser Coils</a></p>
+		   <p class="fet_hed"><a href="/condenser-coils" title="Air Conditioner Condenser Coils">Air Conditioner Condenser Coils</a></p>
 		   <p class="fet_txt">Premium Products, in its capacity as a high-performance Air conditioner condenser coil man...</p>
 		   <p class="cor"><img src="assets/designer/themes/default/images/cor.jpg" alt=""></p>
 		  </div>
@@ -273,11 +273,11 @@ Premium Products i...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="hot-water-and-chilled-water-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="hot-water-and-chilled-water-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_hot-water-coil.png" alt="Hot Water Coils" title="Hot Water Coils" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/hot-water-and-chilled-water-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/hot-water-and-chilled-water-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_hot-water-coil.png" alt="Hot Water Coils" title="Hot Water Coils" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="hot-water-and-chilled-water-coils.php" title="Hot Water and Chilled Water Coils">Hot Water and Chilled Water Coils</a></p>
+		   <p class="fet_hed"><a href="/hot-water-and-chilled-water-coils" title="Hot Water and Chilled Water Coils">Hot Water and Chilled Water Coils</a></p>
 		   <p class="fet_txt">Premium Products: Trusted Hot Water and Chilled Water Coils Supplier
 
 Premium Products i...</p>
@@ -289,11 +289,11 @@ Premium Products i...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="steam-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="steam-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_steam.jpg" alt="Steam Coils" title="Steam Coils" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/steam-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/steam-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_steam.jpg" alt="Steam Coils" title="Steam Coils" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="steam-coils.php" title="Steam Coils">Steam Coils</a></p>
+		   <p class="fet_hed"><a href="/steam-coils" title="Steam Coils">Steam Coils</a></p>
 		   <p class="fet_txt">Steam Coils in Australia &ndash; Premium Products, the Market Leader
 
 Best Heating Syste...</p>
@@ -305,11 +305,11 @@ Best Heating Syste...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="air-handling-units-with-vrf-condenser.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="air-handling-units-with-vrf-condenser.php"><img src="uploaded_files/thumb_cache/thumb_285_265_untitled.png" alt="Air Handling Units with VRF Condenser" title="Air Handling Units with VRF Condenser" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/air-handling-units-with-vrf-condenser" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/air-handling-units-with-vrf-condenser"><img src="uploaded_files/thumb_cache/thumb_285_265_untitled.png" alt="Air Handling Units with VRF Condenser" title="Air Handling Units with VRF Condenser" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="air-handling-units-with-vrf-condenser.php" title="Air Handling Units with VRF Condenser">Air Handling Units with VRF Condenser</a></p>
+		   <p class="fet_hed"><a href="/air-handling-units-with-vrf-condenser" title="Air Handling Units with VRF Condenser">Air Handling Units with VRF Condenser</a></p>
 		   <p class="fet_txt">Premium Products is a trusted unit of Air handling with supplier of VRF condenser and a re...</p>
 		   <p class="cor"><img src="assets/designer/themes/default/images/cor.jpg" alt=""></p>
 		  </div>
@@ -319,11 +319,11 @@ Best Heating Syste...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="micro-channel-coils.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="micro-channel-coils.php"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2024-10-17-at-12.01.27-pm.jpeg" alt="Micro channel coils" title="Micro channel coils" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/micro-channel-coils" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/micro-channel-coils"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2024-10-17-at-12.01.27-pm.jpeg" alt="Micro channel coils" title="Micro channel coils" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="micro-channel-coils.php" title="Micro channel coils">Micro channel coils</a></p>
+		   <p class="fet_hed"><a href="/micro-channel-coils" title="Micro channel coils">Micro channel coils</a></p>
 		   <p class="fet_txt">Premium Products: Leading Microchannel Coil Suppliers
 
 Premium Products is one of the le...</p>
@@ -335,11 +335,11 @@ Premium Products is one of the le...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="rooftop-air-handling-units.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="rooftop-air-handling-units.php"><img src="uploaded_files/thumb_cache/thumb_285_265_17-air-handling-unit-m-1.jpg" alt="Rooftop Air handling units" title="Rooftop Air handling units" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/rooftop-air-handling-units" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/rooftop-air-handling-units"><img src="uploaded_files/thumb_cache/thumb_285_265_17-air-handling-unit-m-1.jpg" alt="Rooftop Air handling units" title="Rooftop Air handling units" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="rooftop-air-handling-units.php" title="Rooftop Air handling units">Rooftop Air handling units</a></p>
+		   <p class="fet_hed"><a href="/rooftop-air-handling-units" title="Rooftop Air handling units">Rooftop Air handling units</a></p>
 		   <p class="fet_txt">Premium Products &ndash; Superior Rooftop Air Handling Units in Australia
 
 Energy-Effici...</p>
@@ -351,11 +351,11 @@ Energy-Effici...</p>
 				<div class="item">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="floor-mounted-air-handling-units.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="floor-mounted-air-handling-units.php"><img src="uploaded_files/thumb_cache/thumb_285_265_floor-mounted-ahu11.png" alt="Floor mounted air handling units" title="Floor mounted air handling units" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/floor-mounted-air-handling-units" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/floor-mounted-air-handling-units"><img src="uploaded_files/thumb_cache/thumb_285_265_floor-mounted-ahu11.png" alt="Floor mounted air handling units" title="Floor mounted air handling units" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="floor-mounted-air-handling-units.php" title="Floor mounted air handling units">Floor mounted air handling units</a></p>
+		   <p class="fet_hed"><a href="/floor-mounted-air-handling-units" title="Floor mounted air handling units">Floor mounted air handling units</a></p>
 		   <p class="fet_txt">What are Floor Mounted Air Handling Units?
 
 Floor mounted air handling units, or AHUs, a...</p>
@@ -382,7 +382,7 @@ Floor mounted air handling units, or AHUs, a...</p>
 	   <div class="clearfix"></div>
 	   <div class="w-100 mt-3">
 	    		    <div class="tab_cont" id="cat1">
-		     <p class="gal-but"><a href="gallery.php" title="View More">View More <i class="fa-solid fa-arrow-right"></i></a></p>
+		     <p class="gal-but"><a href="/gallery" title="View More">View More <i class="fa-solid fa-arrow-right"></i></a></p>
 		     <div class="gall_lst">
 		      <ul>
 		       		<li class="listpager">

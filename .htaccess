@@ -1,0 +1,19 @@
+Options -MultiViews
+DirectoryIndex index.php
+
+RewriteEngine On
+# ONLY FOR LOCAL
+# RewriteBase /premiumproducts/
+
+# Skip real files/folders
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Redirect .php → clean
+RewriteCond %{THE_REQUEST} \s/+premiumproducts/(.+?)\.php[\s?] [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# Clean URL → .php
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+?)/?$ $1.php [L]

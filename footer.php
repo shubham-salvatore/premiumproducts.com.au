@@ -39,10 +39,10 @@
 	     <div class="f_dd_box">
 	      <div class="ft_link">
 	       <ul>
-	        		        <li><a href="air-handling-units.php" title="Air Handling Units">Air Handling Units</a></li>
-		        		        <li><a href="coils.php" title="Coils">Coils</a></li>
-		        		        <li><a href="dx-coil.php" title="DX Coil">DX Coil</a></li>
-		        		        <li><a href="heat-recovery-units-with-vrf-condenser.php" title="Heat Recovery units with VRF Condenser">Heat Recovery units with VRF Condenser</a></li>
+	        		        <li><a href="/air-handling-units" title="Air Handling Units">Air Handling Units</a></li>
+		        		        <li><a href="/coils" title="Coils">Coils</a></li>
+		        		        <li><a href="/dx-coil" title="DX Coil">DX Coil</a></li>
+		        		        <li><a href="/heat-recovery-units-with-vrf-condenser" title="Heat Recovery units with VRF Condenser">Heat Recovery units with VRF Condenser</a></li>
 		               </ul>
       </div>
       <div class="clearfix"></div>
@@ -57,28 +57,28 @@
       <div class="ft_lft">
        <div class="ft_link">
         <ul>
-         <li><a href="index.php" title="Home">Home</a></li>
-         <li><a href="about-us.php" title="About Us">About Us</a></li>
-         <li><a href="category.php" title="Products">Products</a></li>
-         <li><a href="news.php" title="News &amp; Events">News &amp; Events</a></li>
-         <li><a href="gallery.php" title="Image Gallery">Image Gallery</a></li>
-         <li><a href="videos.php" title="Video Gallery">Video Gallery</a></li>
-         <li><a href="testimonials.php" title="Testimonials">Testimonials</a></li>
-         <li><a href="contact-us.php" title="Contact Us">Contact Us</a></li>
+         <li><a href="/index" title="Home">Home</a></li>
+         <li><a href="/about-us" title="About Us">About Us</a></li>
+         <li><a href="/category" title="Products">Products</a></li>
+         <li><a href="/news" title="News &amp; Events">News &amp; Events</a></li>
+         <li><a href="/gallery" title="Image Gallery">Image Gallery</a></li>
+         <li><a href="/videos" title="Video Gallery">Video Gallery</a></li>
+         <li><a href="/testimonials" title="Testimonials">Testimonials</a></li>
+         <li><a href="/contact-us" title="Contact Us">Contact Us</a></li>
         </ul>
        </div>
       </div>
       <div class="ft_rgt">
        <div class="ft_link">
         <ul>
-         <li><a href="faq.php" title="FAQs">FAQs</a></li>
+         <li><a href="/faq" title="FAQs">FAQs</a></li>
          <li><a href="pages/refer_to_friends.html"  class="pop" data-type="iframe" title="Refer to Friend">Refer to Friend</a></li>
-         <li><a href="privacy-policy.php" title="Privacy Policy">Privacy Policy</a></li>
-         <li><a href="terms-conditions.php" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-         <li><a href="legal-disclaimer.php" title="Legal Disclaimer">Legal Disclaimer</a></li>
-         <li><a href="our-mission.php" title="Our Mission">Our Mission</a></li>
-         <li><a href="our-vision.php" title="Our Vision">Our Vision</a></li>
-         <li><a href="sitemap.php" title="Sitemap">Sitemap</a></li>
+         <li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+         <li><a href="/terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+         <li><a href="/legal-disclaimer" title="Legal Disclaimer">Legal Disclaimer</a></li>
+         <li><a href="/our-mission" title="Our Mission">Our Mission</a></li>
+         <li><a href="/our-vision" title="Our Vision">Our Vision</a></li>
+         <li><a href="/sitemap" title="Sitemap">Sitemap</a></li>
         </ul>
        </div>
       </div>
@@ -112,7 +112,7 @@
    <div class="foot_dev_inn">
     <div class="row">
      <div class="col-lg-8 col-xl-6">
-      <p class="foot_logo"><a href="index.php" title="Premium Products"><img src="assets/designer/themes/default/images/ft-logo.png" alt="Premium Products" class="img-fluid"></a></p>
+      <p class="foot_logo"><a href="/index" title="Premium Products"><img src="assets/designer/themes/default/images/ft-logo.png" alt="Premium Products" class="img-fluid"></a></p>
       <p class="dev_txt">Copyright &copy; 2026,<br>Premium Products.<br>All rights reserved.</p>
      </div>
      <div class="col-lg-4 col-xl-6">

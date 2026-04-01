@@ -2,7 +2,7 @@
 		<nav aria-label="breadcrumb" class="breadcrumb_bg">
 		<div class="container">
 		<ol class="breadcrumb">
-		<li class="breadcrumb-item"><a href="index.php">Home</a></li><li class="breadcrumb-item"><a href="category.php">Categories</a></li><li class="breadcrumb-item active">DX Coil</li>
+		<li class="breadcrumb-item"><a href="/index">Home</a></li><li class="breadcrumb-item"><a href="/category">Categories</a></li><li class="breadcrumb-item active">DX Coil</li>
 		</ol>
 		</div>
 		</nav><script type="text/javascript">function serialize_form() { return $('#myform').serialize();   } </script>
@@ -24,11 +24,11 @@
         <div class="flter_bx">
 	       <div class="filt_hed">Categories</div>
 <div id="categories_list" class="list_area">
- 		   <p class="left_attribute"><a href="air-handling-units.php">Air Handling Units</a></p> 
-		   		   <p class="left_attribute"><a href="coils.php">Coils</a></p> 
-		   		   <p class="left_attribute"><a href="dx-coil.php">DX Coil</a></p> 
-		   		   <p class="left_attribute"><a href="heat-recovery-units-with-vrf-condenser.php">Heat Recovery units with VRF Condenser</a></p> 
-		   		   <p class="left_attribute"><a href="ec-fans.php">EC Fans</a></p> 
+ 		   <p class="left_attribute"><a href="/air-handling-units">Air Handling Units</a></p> 
+		   		   <p class="left_attribute"><a href="/coils">Coils</a></p> 
+		   		   <p class="left_attribute"><a href="/dx-coil">DX Coil</a></p> 
+		   		   <p class="left_attribute"><a href="/heat-recovery-units-with-vrf-condenser">Heat Recovery units with VRF Condenser</a></p> 
+		   		   <p class="left_attribute"><a href="/ec-fans">EC Fans</a></p> 
 		   </div>	      </div>
 	     </div>
 	    </div>
@@ -44,11 +44,11 @@
 		      		<li class="listpager">
 		 <div class="fet_out">
 		  <div class="fet_inn">
-		   <p class="fet_eff"><a href="dx-coil-with-vrf-condenser-suppliers.php" title="Enquiry Now">Enquiry Now</a></p>
-		   <figure><a href="dx-coil-with-vrf-condenser-suppliers.php"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2025-04-03-at-12-42-26-pm.jpeg" alt="DX Coil  with VRF Condenser" title="DX Coil  with VRF Condenser" class="img-fluid"></a></figure>
+		   <p class="fet_eff"><a href="/dx-coil-with-vrf-condenser-suppliers" title="Enquiry Now">Enquiry Now</a></p>
+		   <figure><a href="/dx-coil-with-vrf-condenser-suppliers"><img src="uploaded_files/thumb_cache/thumb_285_265_whatsapp-image-2025-04-03-at-12-42-26-pm.jpeg" alt="DX Coil  with VRF Condenser" title="DX Coil  with VRF Condenser" class="img-fluid"></a></figure>
 		  </div>
 		  <div class="fet_txt_ar">
-		   <p class="fet_hed"><a href="dx-coil-with-vrf-condenser-suppliers.php" title="DX Coil  with VRF Condenser">DX Coil  with VRF Condenser</a></p>
+		   <p class="fet_hed"><a href="/dx-coil-with-vrf-condenser-suppliers" title="DX Coil  with VRF Condenser">DX Coil  with VRF Condenser</a></p>
 		   <p class="fet_txt">Premium Products is a reliable&nbsp;DX coils and VRF condenser&nbsp;supplier, providing hi...</p>
 		   <p class="cor"><img src="assets/designer/themes/default/images/cor.jpg" alt=""></p>
 		  </div>
