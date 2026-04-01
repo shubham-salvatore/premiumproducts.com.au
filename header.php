@@ -91,7 +91,7 @@
              <li class="nav-item"> 
               <a href="#" data-toggle="dropdown" data-hover="dropdown" data-delay="1000" title="About Us " class="dropdown-toggle">About Us  <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
-               <li><a href="about-us.php" title="About Us">About Us</a></li>
+               <li><a href="about-us.php" title="About Us">About Test Us</a></li>
                <li><a href="our-mission.php" title="Our Mission">Our Mission</a></li>
                <li><a href="our-vision.php" title="Our Vision">Our Vision</a></li>
               </ul>
