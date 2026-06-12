@@ -73,6 +73,7 @@
           <button type="submit" class="sub_butt">Submit</button>
           <button type="reset" class="res_butt">Reset</button>
           <input name="action" type="hidden"  value="send">
+          <input type="hidden" name="form_type" value="contact">
          </div>
         </div>
         </div>

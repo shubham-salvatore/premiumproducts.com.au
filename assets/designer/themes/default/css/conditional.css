@@ -1936,6 +1936,14 @@ header {
     line-height: 50px
 }
 
+.wel_out h2 {
+    font-size: 32px;
+    font-weight: 900;
+    color: #264387;
+    text-align: left;
+    line-height: 50px
+}
+
 .wel_txt {
     font-size: 17px;
     font-weight: 500;
@@ -3529,7 +3537,6 @@ footer {
 }
 
 .foot-socio a {
-    display: block;
     color: #333333;
     padding-bottom: 3px;
     text-align: left;
@@ -3542,7 +3549,7 @@ footer {
     font-size: 20px;
     text-align: center;
     display: inline-block;
-    padding: 5px 0px;
+    padding: 5px 15px;
     width: 25px;
     font-weight: 600
 }
@@ -4224,7 +4231,7 @@ nav .breadcrumb {
 .cms_area {
     font-size: 19px;
     font-family: 'Red Hat Display', sans-serif;
-    min-height: 400px;
+    min-height: 240px;
     margin-bottom: 20px;
     color: #000;
     text-align: left;

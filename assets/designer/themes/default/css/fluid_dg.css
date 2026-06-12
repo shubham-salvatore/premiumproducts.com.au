@@ -1682,6 +1682,12 @@
     margin-top: 15px;
 }
 
+.bnr-txt4 h1 {
+    color: #fff;
+    padding: 15px;
+    background: linear-gradient(to right, rgb(0 0 0 / 0.5), rgb(0 0 0 / 0.5));
+}
+
 .bnr-txt4 a {
     font-family: 'Red Hat Display', sans-serif;
     font-size: 15px;

@@ -137,34 +137,36 @@ function join_newsletter() {
 }
 
 function handleForm(formId) {
-  document.getElementById(formId).addEventListener("submit", function(e) {
-    e.preventDefault();
+  const form = document.getElementById(formId);
 
-    const form = this;
+  if (!form) return;
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
 
     fetch("/pages/send_mail.php", {
       method: "POST",
       body: new FormData(form)
     })
-    .then(res => res.text())
-    .then(data => {
-      if (data === "success") {
-        alert("Sent successfully");
-        form.reset();
-      } else {
-        alert(data);
-      }
-    })
-    .catch(() => alert("Error"));
+      .then(res => res.text())
+      .then(data => {
+        const response = data.trim();
+
+        if (response === "success") {
+          alert("Sent successfully");
+          form.reset();
+        } else {
+          alert(response);
+        }
+      })
+      .catch(() => {
+        alert("Error");
+      });
   });
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-  handleForm("contactForm");
-});
-
-document.addEventListener("DOMContentLoaded", function () {
-  handleForm("chk_newsletter");
+  ["contactForm", "chk_newsletter", "enquiryfrm"].forEach(handleForm);
 });
 
 function bidnow() {

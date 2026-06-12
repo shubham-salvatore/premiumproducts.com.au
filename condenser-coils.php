@@ -2,7 +2,7 @@
 		<nav aria-label="breadcrumb" class="breadcrumb_bg">
 		<div class="container">
 		<ol class="breadcrumb">
-		<li class="breadcrumb-item"><a href="/index">Home</a></li><li class="breadcrumb-item"><a href="/category">Categories</a></li><li class="breadcrumb-item"><a href="/coils">Coils</a></li><li class="breadcrumb-item active">Air Conditioner Condenser Coils</li>
+		<li class="breadcrumb-item"><a href="/index">Home</a></li><li class="breadcrumb-item"><a href="/categories">Categories</a></li><li class="breadcrumb-item"><a href="/coils">Coils</a></li><li class="breadcrumb-item active">Air Conditioner Condenser Coils</li>
 		</ol>
 		</div>
 		</nav><div class="container">

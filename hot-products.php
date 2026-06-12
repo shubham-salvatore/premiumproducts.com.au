@@ -27,6 +27,13 @@
 		   		   <p class="left_attribute"><a href="/dx-coil">DX Coil</a></p> 
 		   		   <p class="left_attribute"><a href="/heat-recovery-units-with-vrf-condenser">Heat Recovery units with VRF Condenser</a></p> 
 		   		   <p class="left_attribute"><a href="/ec-fans">EC Fans</a></p> 
+				   <p class="left_attribute">
+<a href="/heat-exchangers">Heat Exchangers</a>
+</p>
+
+<p class="left_attribute">
+<a href="/dehumidifiers">Dehumidifiers</a>
+</p>
 		   </div>	      </div>
 	     </div>
 	    </div>

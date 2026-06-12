@@ -55,7 +55,7 @@
 <body>
 <div class="popup_w">
  <h1 style="margin-bottom:15px; padding-bottom:10px;" class="bb fs22">Send Enquiry</h1>
- <form action="https://www.premiumproducts.com.au/products/enquiry/60" name="enquiryfrm" id="enquiryfrm" enctype="multipart/form-data" method="post" accept-charset="utf-8">
+ <form action="" name="enquiryfrm" id="enquiryfrm" enctype="multipart/form-data" method="post" accept-charset="utf-8">
  <div class="form-row">
   <div class="form-group col-md-12 ">
    <label>Product Name <span class="red">*</span></label>
@@ -77,14 +77,11 @@
    <label>Description <span class="red">*</span></label>
    <textarea name="message" id="message" cols="3" rows="3" class="form-control"></textarea>
      </div>
-  <div class="form-group col-md-12">
-   <label>Enter Code <span class="red">*</span></label>
-   <div class="clearfix"></div>
-   <p class="float-left" style="width:40%;"><input name="verification_code" id="verification_code" type="text" class="form-control" autocomplete="off"></p>
-   <p style="width:55%; float:left"><img src="../../captcha/normal/enquiry.gif" class="vam" alt="" id="captchaimage" /><a href="javascript:void(0);" title="Change Verification Code"><img src="https://www.premiumproducts.com.au/assets/designer/themes/default/images/refresh.png"  alt="Refresh"  onclick="document.getElementById('captchaimage').src='https://www.premiumproducts.com.au/captcha/normal/enquiry/177451026269c4e0b61565b'+Math.random(); document.getElementById('verification_code').focus();" class="vam"></a></p>
-  </div>
   <div class="clearfix"></div>
-    <div class="form-group col-md-12 mt-4"><input name="submit" type="submit" class="btn btn-danger" value="Send Enquiry"></div>
+    <div class="form-group col-md-12 mt-4">
+      <input name="submit" type="submit" class="btn btn-danger" value="Send Enquiry">
+      <input type="hidden" name="form_type" value="enquiry">
+    </div>
  </div>
  </form></div>
 </body>

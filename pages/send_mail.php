@@ -1,45 +1,68 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
-    // --- sanitize helper ---
     function clean($data) {
         return htmlspecialchars(trim($data));
     }
 
-    // --- get data (supports both forms) ---
-    $name = clean($_POST['first_name'] ?? $_POST['subscriber_name'] ?? 'User');
-    $email = clean($_POST['email'] ?? $_POST['subscriber_email'] ?? '');
-    $phone = clean($_POST['phone_number'] ?? '');
-    $message = clean($_POST['message'] ?? 'Newsletter Subscription');
+    $formType = $_POST['form_type'] ?? 'unknown';
 
-    // --- basic validation ---
+    $email = clean($_POST['email'] ?? $_POST['subscriber_email'] ?? '');
     if (!$email || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
         http_response_code(400);
         echo "Invalid email";
         exit;
     }
 
-    // --- recipient (YOU) ---
-    $to = "shubhamsggupta59@gmail.com";
+    $to = "info@premiumproducts.com.au";
+    $subject = "New Website Submission";
 
-    // --- subject ---
-    $subject = "New Website Enquiry";
+    $body = "Form Type: " . strtoupper($formType) . "\n\n";
 
-    // --- email body ---
-    $body = "New Form Submission\n\n";
-    $body .= "Name: $name\n";
-    $body .= "Email: $email\n";
-    if ($phone) {
-        $body .= "Phone: $phone\n";
+    switch ($formType) {
+
+        case "newsletter":
+            $name = clean($_POST['subscriber_name'] ?? 'Subscriber');
+
+            $body .= "Name: $name\n";
+            $body .= "Email: $email\n";
+            break;
+
+        case "contact":
+            $name = clean($_POST['first_name'] ?? '');
+            $phone = clean($_POST['phone_number'] ?? '');
+            $message = clean($_POST['message'] ?? '');
+
+            $body .= "Name: $name\n";
+            $body .= "Email: $email\n";
+            $body .= "Phone: $phone\n";
+            $body .= "Message: $message\n";
+            break;
+
+        case "enquiry":
+            $name = clean($_POST['first_name'] ?? '');
+            $phone = clean($_POST['mobile_number'] ?? '');
+            $product = clean($_POST['product_name'] ?? '');
+            $message = clean($_POST['message'] ?? '');
+
+            $body .= "Product: $product\n";
+            $body .= "Name: $name\n";
+            $body .= "Email: $email\n";
+            $body .= "Phone: $phone\n";
+            $body .= "Message: $message\n";
+            break;
+
+        default:
+            http_response_code(400);
+            echo "Invalid form submission";
+            exit;
     }
-    $body .= "Message: $message\n";
 
-    // --- headers (CRITICAL PART) ---
+    $headers = "";
     $headers .= "Reply-To: $email\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 
-    // --- send mail ---
     if (mail($to, $subject, $body, $headers)) {
         echo "success";
     } else {

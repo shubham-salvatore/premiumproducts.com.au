@@ -27,7 +27,7 @@
      <div class="sitemap_hed">Quick Links</div>
      <a href="/index" title="Home">Home</a>
      <a href="/about-us" title="About Us">About Us</a>
-     <a href="/category" title="Products">Products</a>
+     <a href="/categories" title="Products">Products</a>
      <a href="/news" title="News &amp; Events">News &amp; Events</a>
      <a href="/gallery" title="Image Gallery">Image Gallery</a>
      <a href="/videos" title="Video Gallery">Video Gallery</a>
